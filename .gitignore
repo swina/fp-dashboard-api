@@ -1,7 +1,6 @@
 # Logs
 logs
 *.log
-/config/default.json
 
 # Runtime data
 pids
