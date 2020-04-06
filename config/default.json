@@ -31,5 +31,6 @@
   "mysql": {
     "client": "mysql2",
     "connection": "mysql://fpadmin:cb366bm@5146646@178.239.176.40:3306/familypizza"
-  }
+  },
+  "nedb": "../data"
 }
