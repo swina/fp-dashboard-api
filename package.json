@@ -45,7 +45,7 @@
     "feathers-knex": "^7.1.0",
     "feathers-nedb": "^5.1.0",
     "helmet": "^3.21.2",
-    "knex": "^0.20.4",
+    "knex": "^2.4.0",
     "mysql2": "^2.1.0",
     "nedb": "^1.8.0",
     "node-ssh": "^8.0.0",
